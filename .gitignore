@@ -1,5 +1,12 @@
+# Ignore everything by default
 *
-wip/
+
+# Allow Notebooks, Markdown, and gitignore
+!*/
 !*.ipynb
 !.gitignore
 !.md
+
+# Ignore Work In Progress and checkpoints
+wip/
+.ipynb_checkpoints/
