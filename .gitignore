@@ -10,3 +10,6 @@
 # Ignore Work In Progress and checkpoints
 wip/
 .ipynb_checkpoints/
+
+# Ignore personal only
+personal-*.ipynb
