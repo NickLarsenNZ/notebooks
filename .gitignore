@@ -1,11 +1,12 @@
 # Ignore everything by default
 *
 
-# Allow Notebooks, Markdown, and gitignore
+# Allow Notebooks, Markdown, gifs, and gitignore
 !*/
 !*.ipynb
 !.gitignore
 !.md
+!*.gif
 
 # Ignore Work In Progress and checkpoints
 wip/
